@@ -1,0 +1,33 @@
+body{
+	background:url(../articulo.jpg) no-repeat;
+	background-size: cover;
+}
+h1{
+	color:gray;
+}
+.form-container{border: 1px solid #fff; padding:50px 60px;margin-top:5%;
+-webkit-box-shadow: 0px 0px 207px 22px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 207px 22px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 207px 22px rgba(0,0,0,0.75);
+}
+label{
+	color:black;
+}
+.span4 {
+    float: left;
+    width: 800px;
+}
+.span8{
+	float: right;
+	width: 800px;
+	margin-top: 10%;
+}
+.lbl_cat{
+	font-size: 20px;
+}
+h1{
+	color: green;
+}
+textarea{
+	margin-top: 6%;
+}
